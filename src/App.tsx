@@ -1,11 +1,14 @@
-import './App.css'
+import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Homepage from './pages/Homepage'
+import './assets/colors.css';
+import Homepage from './pages/Homepage';
 
 function App() {
   return (
     <>
-    <Homepage />
+
+      <Homepage />
+  
     </>
   )
 }
