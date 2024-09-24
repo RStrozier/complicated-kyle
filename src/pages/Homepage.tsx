@@ -1,4 +1,5 @@
 
+import VideoComplicated from "../components/VideoComplicated";
 import DylanSection from "../sections/DylanSection";
 import SectionFive from "../sections/SectionFive";
 import SectionFour from "../sections/SectionFour";
@@ -10,6 +11,7 @@ const Homepage = () => {
   return (
       <>
         <div className="container-fluid">
+          <VideoComplicated />
           <SectionOne />
           <DylanSection />
           <SectionTwo />
