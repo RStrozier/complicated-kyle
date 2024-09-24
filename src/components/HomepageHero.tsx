@@ -8,12 +8,14 @@ const HomepageHero = () => {
       <div className="p-4"></div>
         This is a test side project to describe the   
         <Typography variant="overline" color="success"> complications</Typography> of my
-        boss, Kyle. We are working on making this a lighthearted project,
+        boss, Kyle. <br />  We (AKA Dylan) are working on
+        making this a lighthearted project,
         filled with <Typography variant="caption" color="primary" noWrap> laughs and smiles.</Typography>
         <div className="div">Unless he decides to be mean to us and give us bad reviews, 
-          in which case <br /><Typography variant="overline" color="danger">this might be a 
+          in which case <br /><Typography variant="overline" color="red">this might be a 
             threat / smear campaign.
-          </Typography> <div>But probably not because Kyle is complicated & cool.</div>
+          </Typography> 
+          <div className="text-sm">But probably not because Kyle is complicated & cool.</div>
         </div>
         <div className="p-2"></div>
       </div>
