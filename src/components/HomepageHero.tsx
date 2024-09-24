@@ -7,8 +7,9 @@ const HomepageHero = () => {
       <div className="mx-2 container-fluid text-md">
       <div className="p-4"></div>
         This is a test side project to describe the   
-        <Typography variant="overline" color="success"> complications</Typography> of my
-        boss, Kyle. <br />  We (AKA Dylan) are working on
+        <Typography variant="overline" color="success"> complications</Typography> of our
+        boss, Kyle. <br />  We (AKA Dylan only and Rashida as his businesss manager) 
+        <br /> are working on
         making this a lighthearted project,
         filled with <Typography variant="caption" color="primary" noWrap> laughs and smiles.</Typography>
         <div className="div">Unless he decides to be mean to us and give us bad reviews, 
