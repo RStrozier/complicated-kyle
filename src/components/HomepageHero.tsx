@@ -4,7 +4,7 @@ import Typography from "@mui/material/Typography"
 const HomepageHero = () => {
   return (
     <>
-      <div className="mx-2 container-md text-md">
+      <div className="mx-2 container-fluid text-md">
       <div className="p-4"></div>
         This is a test side project to describe the   
         <Typography variant="overline" color="success"> complications</Typography> of my
